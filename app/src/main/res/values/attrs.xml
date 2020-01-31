@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="cpv_color" format="color" />
+        <attr name="cpv_stroke_width" format="dimension" />
+    </declare-styleable>
+</resources>
